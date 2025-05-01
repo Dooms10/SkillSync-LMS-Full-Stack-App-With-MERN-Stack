@@ -1,4 +1,4 @@
-# SkillSync-LMS-Full-Stack-App-With-MERN-Stack
+# SkillSync-LMS-Full-Stack-App-With-MERN-Stack #
 
 🚀 Project Overview
 Project Type: Full-stack web application (Learning Management System)
