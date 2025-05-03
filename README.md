@@ -5,7 +5,6 @@ Project Type: Full-stack web application (Learning Management System)
 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js)
 
 Key Features:
-
 User authentication and authorization
 
 Course creation and management
