@@ -15,8 +15,7 @@ Payment integration using Stripe
 
 Admin dashboard for managing users and courses
 
-Responsive design for various devices​
-YouTube
+Responsive design for various devices
 
 🧱 Frontend (React.js)
 Routing: Implemented using React Router for navigation between pages.
